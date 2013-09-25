@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android" 
+     android:configure="fr.ravenfeld.widget.simpleclock.ConfigActivity"
+    android:minWidth="@dimen/widget_width"
+    android:minHeight="@dimen/widget_height"
+    android:updatePeriodMillis="0"
+	android:initialLayout="@layout/initial_layout"
+	android:resizeMode="horizontal"
+	android:previewImage="@drawable/widget_preview"
+    android:widgetCategory="keyguard|home_screen" />

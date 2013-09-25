@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- width|height / cell = (74 * N) - 2  -->
+    <dimen name="widget_width">144dp</dimen>
+    <dimen name="widget_height">72dp</dimen>
+    <dimen name="widget_margin">8dp</dimen>
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">Simple Clock</string>
+    <string name="sample_hour">23</string>
+    <string name="sample_date">mardi 4 septembre</string>
+    <string name="sample_alarm">mer. 07:15</string>
+    <string name="date_format_all">EEEE d MMMM</string>
+    <string name="date_format_us">EEEE, MMMM d</string>
+    <string name="date_format_full_all">EEEE d MMMM</string>
+    <string name="date_format_full_us">EEEE, MMMM d</string>
+    <string name="alarmclock_content_description">next alarm</string>
+    <string name="minutes_description">minutes visualization</string>
+    <string name="please_wait">Please wait…</string>
+    <string name="start_widget">Launch Widget</string>
+    <string name="prompt">Prompt</string>
+    <string name="transparent">Transparent</string>
+    <string name="red">Red</string>
+    <string name="white">White</string>
+    <string name="black">Black</string>
+
+</resources>
